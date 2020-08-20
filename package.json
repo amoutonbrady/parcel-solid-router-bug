@@ -1,0 +1,22 @@
+{
+  "name": "parcel-solid-router-bug",
+  "version": "1.0.0",
+  "description": "",
+  "browser": "dist/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rturnq/solid-router": "0.1.3",
+    "solid-js": "^0.18.14"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-typescript": "^7.10.4",
+    "babel-preset-solid": "^0.18.14",
+    "parcel": "^2.0.0-nightly.372"
+  }
+}
